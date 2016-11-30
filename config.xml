@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="mg.aplmadagascar.sitetest.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>Chorale APL Madagascar</name>
-    <description>Chorale Antsam-Pideran'ny Lanitra</description>
+    <name>Infos Maurice</name>
+    <description>Site d'actualité et d'info Maurice </description>
     <author email="ratatl55@gmail.com" href="http://sitetest.aplmadagascar.mg/">Tantely Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />

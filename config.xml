@@ -2,7 +2,7 @@
 <widget id="mg.aplmadagascar.sitetest.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Infos Maurice</name>
-    <description>Site d'actualité et d'info Maurice </description>
+    <description>Maurice site d'actualité et d'info </description>
     <author email="ratatl55@gmail.com" href="http://sitetest.aplmadagascar.mg/">Tantely Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
@@ -47,6 +47,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://sitetest.aplmadagascar.mg/" />
+    <content src="http://sitetest.aplmadagascar.mg/infos-maurice/" />
     <access origin="http://sitetest.aplmadagascar.mg/" subdomains="true" />
 </widget>

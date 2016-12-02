@@ -3,9 +3,9 @@
     
     <name>Infos Maurice</name>
     <description>Maurice site d'actualité et d'info </description>
-    <author email="ratatl55@gmail.com" href="http://sitetest.aplmadagascar.mg/">Tantely Webmaster</author>
+    <author email="ratatl55@gmail.com" href="http://sitetest.aplmadagascar.mg/infos-maurice/">Tantely Webmaster</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="6.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
@@ -48,5 +48,5 @@
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
     <content src="http://sitetest.aplmadagascar.mg/infos-maurice/" />
-    <access origin="http://sitetest.aplmadagascar.mg/" subdomains="true" />
+    <access origin="http://sitetest.aplmadagascar.mg/infos-maurice/" subdomains="true" />
 </widget>
